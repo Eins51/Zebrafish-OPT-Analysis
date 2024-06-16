@@ -22,6 +22,7 @@ Clone the repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/Eins51/Zebrafish-OPT-Analysis.git
+```
 
 ### Usage
 Open MATLAB and navigate to the directory where the scripts are located. Run task4.mlx to perform the analysis. Ensure that your data files are in the specified path as referenced in the scripts.
