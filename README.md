@@ -28,3 +28,4 @@ git clone https://github.com/Eins51/Zebrafish-OPT-Analysis.git
 Open MATLAB and navigate to the directory where the scripts are located. Run task4.mlx to perform the analysis. Ensure that your data files are in the specified path as referenced in the scripts.
 
 ## Visuals
+![MIP Result](https://github.com/Eins51/Zebrafish-OPT-Analysis/blob/main/Visualization.png "Maximum Intensity Projection Output")
